@@ -1,0 +1,13 @@
+body{
+	background-color: #4f4f4f;
+}
+.container{
+	width: 100%;
+	display: block;
+}
+.set{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
